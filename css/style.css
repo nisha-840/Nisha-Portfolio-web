@@ -1,0 +1,92 @@
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans', sans-serif;
+}
+
+/* Custom styles for the navbar */
+.navbar {
+    background-color: #d67b82 !important; /* Light pink */
+  }
+  .navbar-nav .nav-link {
+    color: #0F0E0F !important; /* Dark orange */
+  }
+  
+
+#Start{
+    background-color:#F2D4D6;
+    padding-top: 150px;
+}
+
+#Start h1,h3,h5{
+    color:rgb(29, 70, 145)
+}
+
+.btn-primary {
+    background-color: navy;
+    color: white;
+}
+
+#Project{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: rgb(29, 70, 145);
+   
+}
+#Project h2{
+    text-align: left;
+    color:#F7E6EA;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+    
+}
+#Project .card{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#Project .col-md-4{
+    margin-bottom: 30px;
+}
+#Project .card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: fill;
+}
+#skills {
+    background-color: #F2D4D6;
+    padding: 20px;
+  }
+  
+  #skills h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  #skills h2 {
+    color:#020200;
+    text-transform: uppercase;
+  }
+
+
+  #skills button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+#contact{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color:  #E1B0AC;
+    text-align: center;
+}
+#contact h1{
+    color: navy;
+}
+
+#contact a{
+    text-decoration: none;
+}
+
+
+
