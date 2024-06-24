@@ -5,19 +5,7 @@
     font-family: 'Product Sans', sans-serif;
 }
 
-@media (max-width: 767px) {
-    #Start {
-      padding-top: 80px;
-      padding-bottom: 80px;
-    }
-  }
-  
-  @media (min-width: 768px) {
-    #Start {
-      padding-top: 120px;
-      padding-bottom: 120px;
-    }
-  }
+
   
 
 .navbar {
